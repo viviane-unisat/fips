@@ -2,10 +2,15 @@
 # FIP\-102: Native FB on Bitcoin Mainnet
 
 **Version:** 0\.20
+
 **Title:** Native FB on Bitcoin Mainnet
+
 **Author:** Fractal Team
+
 **Status:** Complete
+
 **Type**: Consensus \(Hard Fork\)
+
 **Created:** 2026\-08\-18
 
 ---
